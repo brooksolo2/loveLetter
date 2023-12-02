@@ -1,6 +1,6 @@
 <script>
   let count=0;
-const textarray=["Mariamawit","I love you","I cant wait to marry you","Even though we are already married","SCROLL DOWN"];
+const textarray=["mama","I love you","I cant wait to marry you","Even though we are already married","SCROLL DOWN"];
 const delayer=100;
 const erasedelay=100;
 const newTextDelay=2000;
